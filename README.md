@@ -1,4 +1,4 @@
-# Final Project
+# TRON Bike Game Remake in C++ openFrameworks
 
 ## Required openFrameworks Add-ons
 The only required add-on is ofxLight2D which can be found [here](https://github.com/bakercp/ofxLight2D).
